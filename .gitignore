@@ -1,0 +1,16 @@
+*
+
+!*/
+
+!.gitignore
+
+!fastfetch/
+!fastfetch/**
+!kitty/
+!kitty/**
+!rofi/
+!rofi/**
+!hypr/
+!hypr/**
+!waybar/
+!waybar/**
